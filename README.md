@@ -69,7 +69,7 @@ Total Records : 5 Million Transactions
 These KPIs allow analysts to quickly understand fraud volume and risk levels.
 # Dashboard visulizations 
   # Monthly fraud vs non-fraud trend
-  * Chart type:Line chart
+  * Chart type:Line chart.
 Shows how fraud transaction changes over time and helps identify seasonal fraud pattern.
   # Fraud transaction by region
   * Chart type:Map visualization
