@@ -66,27 +66,27 @@ Total Records : 5 Million Transactions
 * fraud amount - $64.37M
 * last 15 mins fraud - real-time fraud monitoring
 * last 15 mins non-fraud - real-time legitimate acitvity
-These KPIs allow analysts to quickly understand fraud volume and risk levels.
+* These KPIs allow analysts to quickly understand fraud volume and risk levels.
 # Dashboard visulizations 
     # Monthly fraud vs non-fraud trend
   * Chart type : Line chart
 * Shows how fraud transaction changes over time and helps identify seasonal fraud pattern.
-    #Fraud transaction by region
+      # Fraud transaction by region
   * Chart type : Map visualization
 * Display fraud transactions geographically to identify high-risk region.
-    #Fraud transaction by hour and risk level
+      # Fraud transaction by hour and risk level
   * Chart type : Heatmap
 * Shows hourly fraud distribution categorized by risk level.
   * High risk
   * Medium risk
   * Low risk
-    #Fraud accounts by amount
+        # Fraud accounts by amount
   * Chart type: Table
 * Identifies accounts responsible for the highest fraud amounts,helping fraud investigation prioritize cases.
-    #Fraud amount by velocity score
+      # Fraud amount by velocity score
   * Chart type : Scatter plot
 * Analyzes relationship between trasnaction amount and transaction frequency risk score.
-    #Frau vs non-fraud distribution
+      # Fraud vs non-fraud distribution
   * Chart type : Donut chart
 * Shows proporation of fraudulent vs legitimate transactions.
 # Dashboard filter
